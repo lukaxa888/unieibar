@@ -1,0 +1,15 @@
+COMANDOS USADOS MYSQL
+
+
+create database asirweb;
+
+
+use asirweb
+
+
+create table login (
+    -> user varchar(40),
+    -> pass varchar(40)
+    -> );
+
+    
